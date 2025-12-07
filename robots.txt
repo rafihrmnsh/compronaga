@@ -1,0 +1,11 @@
+# robots.txt for PT NAGA KARYA SAKTI INDONESIA
+
+# Allow all search engines to crawl everything
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://nagakaryasakti.netlify.app/sitemap.xml
+
+# Crawl-delay (optional, helps prevent server overload)
+Crawl-delay: 10
