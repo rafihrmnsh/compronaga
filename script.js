@@ -87,37 +87,6 @@ document.addEventListener('DOMContentLoaded', () => {
     animatedElements.forEach(el => observer.observe(el));
 });
 
-// Contact Form Handling
-const contactForm = document.getElementById('contactForm');
-
-contactForm.addEventListener('submit', (e) => {
-    e.preventDefault();
-    
-    // Get form data
-    const formData = new FormData(contactForm);
-    const data = Object.fromEntries(formData);
-    
-    // Basic validation
-    if (!data.name || !data.email || !data.subject || !data.message) {
-        showNotification('Mohon lengkapi semua field yang wajib diisi', 'error');
-        return;
-    }
-    
-    // Email validation
-    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-    if (!emailRegex.test(data.email)) {
-        showNotification('Format email tidak valid', 'error');
-        return;
-    }
-    
-    // Simulate form submission
-    showNotification('Pesan Anda berhasil dikirim! Kami akan segera menghubungi Anda.', 'success');
-    contactForm.reset();
-    
-    // In production, you would send this data to your backend
-    console.log('Form submitted:', data);
-});
-
 // Notification System
 function showNotification(message, type = 'success') {
     // Remove existing notification if any
