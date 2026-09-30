@@ -1,0 +1,433 @@
+{
+ "tools": [
+  {
+   "src": "/images/tools/tools-01.webp",
+   "w": 464,
+   "h": 350
+  },
+  {
+   "src": "/images/tools/tools-02.webp",
+   "w": 468,
+   "h": 350
+  },
+  {
+   "src": "/images/tools/tools-03.webp",
+   "w": 464,
+   "h": 350
+  },
+  {
+   "src": "/images/tools/tools-04.webp",
+   "w": 471,
+   "h": 350
+  },
+  {
+   "src": "/images/tools/tools-05.webp",
+   "w": 464,
+   "h": 350
+  },
+  {
+   "src": "/images/tools/tools-06.webp",
+   "w": 471,
+   "h": 351
+  },
+  {
+   "src": "/images/tools/tools-07.webp",
+   "w": 296,
+   "h": 393
+  },
+  {
+   "src": "/images/tools/tools-08.webp",
+   "w": 298,
+   "h": 402
+  },
+  {
+   "src": "/images/tools/tools-09.webp",
+   "w": 294,
+   "h": 392
+  },
+  {
+   "src": "/images/tools/tools-10.webp",
+   "w": 295,
+   "h": 394
+  },
+  {
+   "src": "/images/tools/tools-11.webp",
+   "w": 304,
+   "h": 399
+  },
+  {
+   "src": "/images/tools/tools-12.webp",
+   "w": 299,
+   "h": 393
+  },
+  {
+   "src": "/images/tools/tools-13.webp",
+   "w": 432,
+   "h": 324
+  },
+  {
+   "src": "/images/tools/tools-14.webp",
+   "w": 441,
+   "h": 336
+  },
+  {
+   "src": "/images/tools/tools-15.webp",
+   "w": 432,
+   "h": 323
+  },
+  {
+   "src": "/images/tools/tools-16.webp",
+   "w": 441,
+   "h": 359
+  },
+  {
+   "src": "/images/tools/tools-17.webp",
+   "w": 432,
+   "h": 324
+  },
+  {
+   "src": "/images/tools/tools-18.webp",
+   "w": 441,
+   "h": 349
+  },
+  {
+   "src": "/images/tools/tools-19.webp",
+   "w": 433,
+   "h": 324
+  },
+  {
+   "src": "/images/tools/tools-20.webp",
+   "w": 353,
+   "h": 389
+  },
+  {
+   "src": "/images/tools/tools-21.webp",
+   "w": 432,
+   "h": 322
+  },
+  {
+   "src": "/images/tools/tools-22.webp",
+   "w": 442,
+   "h": 353
+  },
+  {
+   "src": "/images/tools/tools-23.webp",
+   "w": 434,
+   "h": 324
+  },
+  {
+   "src": "/images/tools/tools-24.webp",
+   "w": 442,
+   "h": 347
+  },
+  {
+   "src": "/images/tools/tools-25.webp",
+   "w": 429,
+   "h": 406
+  },
+  {
+   "src": "/images/tools/tools-26.webp",
+   "w": 430,
+   "h": 406
+  },
+  {
+   "src": "/images/tools/tools-27.webp",
+   "w": 434,
+   "h": 337
+  },
+  {
+   "src": "/images/tools/tools-28.webp",
+   "w": 433,
+   "h": 340
+  },
+  {
+   "src": "/images/tools/tools-29.webp",
+   "w": 434,
+   "h": 345
+  },
+  {
+   "src": "/images/tools/tools-30.webp",
+   "w": 435,
+   "h": 336
+  }
+ ],
+ "batamindo-greenhouse-farm": [
+  {
+   "src": "/images/projects/batamindo-greenhouse-farm-01.webp",
+   "w": 619,
+   "h": 420
+  },
+  {
+   "src": "/images/projects/batamindo-greenhouse-farm-02.webp",
+   "w": 302,
+   "h": 542
+  },
+  {
+   "src": "/images/projects/batamindo-greenhouse-farm-03.webp",
+   "w": 401,
+   "h": 707
+  },
+  {
+   "src": "/images/projects/batamindo-greenhouse-farm-04.webp",
+   "w": 398,
+   "h": 650
+  }
+ ],
+ "fire-pump-seiko": [
+  {
+   "src": "/images/projects/fire-pump-seiko-01.webp",
+   "w": 411,
+   "h": 544
+  },
+  {
+   "src": "/images/projects/fire-pump-seiko-02.webp",
+   "w": 505,
+   "h": 677
+  },
+  {
+   "src": "/images/projects/fire-pump-seiko-03.webp",
+   "w": 439,
+   "h": 543
+  },
+  {
+   "src": "/images/projects/fire-pump-seiko-04.webp",
+   "w": 471,
+   "h": 453
+  }
+ ],
+ "inkali": [
+  {
+   "src": "/images/projects/inkali-01.webp",
+   "w": 437,
+   "h": 537
+  },
+  {
+   "src": "/images/projects/inkali-02.webp",
+   "w": 546,
+   "h": 405
+  },
+  {
+   "src": "/images/projects/inkali-03.webp",
+   "w": 441,
+   "h": 591
+  }
+ ],
+ "pondasi-tanki": [
+  {
+   "src": "/images/projects/pondasi-tanki-01.webp",
+   "w": 430,
+   "h": 574
+  },
+  {
+   "src": "/images/projects/pondasi-tanki-02.webp",
+   "w": 429,
+   "h": 570
+  },
+  {
+   "src": "/images/projects/pondasi-tanki-03.webp",
+   "w": 463,
+   "h": 376
+  },
+  {
+   "src": "/images/projects/pondasi-tanki-04.webp",
+   "w": 506,
+   "h": 376
+  }
+ ],
+ "gedung-logistik-kemendag": [
+  {
+   "src": "/images/projects/gedung-logistik-kemendag-01.webp",
+   "w": 516,
+   "h": 440
+  },
+  {
+   "src": "/images/projects/gedung-logistik-kemendag-02.webp",
+   "w": 457,
+   "h": 380
+  },
+  {
+   "src": "/images/projects/gedung-logistik-kemendag-03.webp",
+   "w": 540,
+   "h": 455
+  }
+ ],
+ "rsud-jampang-kulon": [
+  {
+   "src": "/images/projects/rsud-jampang-kulon-01.webp",
+   "w": 336,
+   "h": 428
+  },
+  {
+   "src": "/images/projects/rsud-jampang-kulon-02.webp",
+   "w": 339,
+   "h": 428
+  },
+  {
+   "src": "/images/projects/rsud-jampang-kulon-03.webp",
+   "w": 336,
+   "h": 424
+  },
+  {
+   "src": "/images/projects/rsud-jampang-kulon-04.webp",
+   "w": 339,
+   "h": 384
+  },
+  {
+   "src": "/images/projects/rsud-jampang-kulon-05.webp",
+   "w": 339,
+   "h": 384
+  },
+  {
+   "src": "/images/projects/rsud-jampang-kulon-06.webp",
+   "w": 322,
+   "h": 310
+  }
+ ],
+ "oil-and-gas": [
+  {
+   "src": "/images/gc/oil-and-gas-01.webp",
+   "w": 445,
+   "h": 297
+  },
+  {
+   "src": "/images/gc/oil-and-gas-02.webp",
+   "w": 447,
+   "h": 298
+  },
+  {
+   "src": "/images/gc/oil-and-gas-03.webp",
+   "w": 445,
+   "h": 297
+  },
+  {
+   "src": "/images/gc/oil-and-gas-04.webp",
+   "w": 447,
+   "h": 297
+  },
+  {
+   "src": "/images/gc/oil-and-gas-05.webp",
+   "w": 270,
+   "h": 484
+  },
+  {
+   "src": "/images/gc/oil-and-gas-06.webp",
+   "w": 300,
+   "h": 484
+  },
+  {
+   "src": "/images/gc/oil-and-gas-07.webp",
+   "w": 293,
+   "h": 484
+  }
+ ],
+ "mechanical-piping-steel": [
+  {
+   "src": "/images/gc/mechanical-piping-steel-01.webp",
+   "w": 572,
+   "h": 428
+  },
+  {
+   "src": "/images/gc/mechanical-piping-steel-02.webp",
+   "w": 508,
+   "h": 438
+  },
+  {
+   "src": "/images/gc/mechanical-piping-steel-03.webp",
+   "w": 586,
+   "h": 402
+  },
+  {
+   "src": "/images/gc/mechanical-piping-steel-04.webp",
+   "w": 525,
+   "h": 323
+  },
+  {
+   "src": "/images/gc/mechanical-piping-steel-05.webp",
+   "w": 680,
+   "h": 352
+  }
+ ],
+ "mud-pit": [
+  {
+   "src": "/images/gc/mud-pit-01.webp",
+   "w": 744,
+   "h": 612
+  },
+  {
+   "src": "/images/gc/mud-pit-02.webp",
+   "w": 698,
+   "h": 595
+  }
+ ],
+ "hdpe-pipe": [
+  {
+   "src": "/images/gc/hdpe-pipe-01.webp",
+   "w": 653,
+   "h": 598
+  },
+  {
+   "src": "/images/gc/hdpe-pipe-02.webp",
+   "w": 642,
+   "h": 542
+  }
+ ],
+ "piping-fabrication-welding-valve": [
+  {
+   "src": "/images/gc/piping-fabrication-welding-valve-01.webp",
+   "w": 536,
+   "h": 397
+  },
+  {
+   "src": "/images/gc/piping-fabrication-welding-valve-02.webp",
+   "w": 596,
+   "h": 362
+  },
+  {
+   "src": "/images/gc/piping-fabrication-welding-valve-03.webp",
+   "w": 758,
+   "h": 409
+  }
+ ],
+ "storage-tank-repair": [
+  {
+   "src": "/images/gc/storage-tank-repair-01.webp",
+   "w": 516,
+   "h": 385
+  },
+  {
+   "src": "/images/gc/storage-tank-repair-02.webp",
+   "w": 597,
+   "h": 366
+  },
+  {
+   "src": "/images/gc/storage-tank-repair-03.webp",
+   "w": 516,
+   "h": 362
+  },
+  {
+   "src": "/images/gc/storage-tank-repair-04.webp",
+   "w": 491,
+   "h": 365
+  },
+  {
+   "src": "/images/gc/storage-tank-repair-05.webp",
+   "w": 516,
+   "h": 374
+  },
+  {
+   "src": "/images/gc/storage-tank-repair-06.webp",
+   "w": 384,
+   "h": 366
+  }
+ ],
+ "hero": {
+  "src": "/images/hero.webp",
+  "w": 1024,
+  "h": 700
+ },
+ "about": {
+  "src": "/images/about.webp",
+  "w": 1200,
+  "h": 900
+ }
+}
